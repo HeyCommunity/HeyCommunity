@@ -1,9 +1,9 @@
 [submodule "HeyCommunity-backend"]
 	path = HeyCommunity-backend
-	url = git@github.com:HeyCommunity/HeyCommunity-backend.git
+	url = https://github.com/HeyCommunity/HeyCommunity-backend.git
 [submodule "HeyCommunity-wxapp"]
 	path = HeyCommunity-wxapp
-	url = git@github.com:HeyCommunity/HeyCommunity-wxapp.git
+	url = https://github.com/HeyCommunity/HeyCommunity-wxapp.git
 [submodule "HeyCommunity-flutter"]
 	path = HeyCommunity-flutter
-	url = git@github.com:HeyCommunity/HeyCommunity-flutter.git
+	url = https://github.com/HeyCommunity/HeyCommunity-flutter.git
