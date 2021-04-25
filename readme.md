@@ -14,12 +14,18 @@ HeyCommunity 是一个社交软件项目，产品功能将包含动态分享、�
 
 
 ### 产品体验
-![微信小程序](assets/wxapp-qrcode.jpg)   
-微信扫码打开小程序
+
+项目    |   入口   |   描述
+-------|----------|----------
+微信小程序   | <img src="./assets/wxapp-qrcode.jpg" width="100">   | 产品开发中，目前功能包含微信授权登录、发布动态、点赞和评论动态
 
 
 ### 支持与联系
-![HEY社区官方交流群](assets/wecom-group-qrcode.jpg)   
-扫码加入微信群聊
+
+<div>
+  <img src="./assets/wecom-group-qrcode.jpg" width="200">    
+  微信扫码加入群聊
+</div>
+
 
 你还可以通过电子邮件联系我们: hi@hey-community.com
