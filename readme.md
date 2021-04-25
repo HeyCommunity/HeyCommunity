@@ -22,10 +22,7 @@ HeyCommunity 是一个社交软件项目，产品功能将包含动态分享、�
 
 ### 支持与联系
 
-<div>
-  <img src="./assets/wecom-group-qrcode.jpg" width="200">    
-  微信扫码加入群聊
-</div>
-
+<img src="./assets/wecom-group-qrcode.jpg" width="200">
+微信扫码加入群聊
 
 你还可以通过电子邮件联系我们: hi@hey-community.com
