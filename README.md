@@ -16,6 +16,14 @@ HeyCommunity 是一个社交软件项目，产品功能将包含动态分享、�
 
 <img src="https://github.com/HeyCommunity/HeyCommunity/raw/dev-master/assets/product-feature-list.png" weight="100%">
 
+## 项目构建和部署
+
+项目名称   |   文档
+-------------|----------
+[HeyCommunity-core](https://github.com/HeyCommunity/HeyCommunity-core)    |   https://github.com/HeyCommunity/HeyCommunity-wxapp/blob/dev-master/README-build.md
+[HeyCommunity-wxapp](https://github.com/HeyCommunity/HeyCommunity-wxapp)    |   https://github.com/HeyCommunity/HeyCommunity-core/blob/dev-master/README-deploy.md
+[HeyCommunity-flutter](https://github.com/HeyCommunity/HeyCommunity-flutter)    |   无，项目暂未启动
+
 ## 产品体验
 
 项目    |   入口   |   描述
