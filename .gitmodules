@@ -4,6 +4,3 @@
 [submodule "HeyCommunity-wxapp"]
 	path = HeyCommunity-wxapp
 	url = https://github.com/HeyCommunity/HeyCommunity-wxapp.git
-[submodule "HeyCommunity-flutter"]
-	path = HeyCommunity-flutter
-	url = https://github.com/HeyCommunity/HeyCommunity-flutter.git
