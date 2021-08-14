@@ -1,6 +1,6 @@
 [submodule "HeyCommunity-backend"]
-	path = HeyCommunity-core
-	url = https://github.com/HeyCommunity/HeyCommunity-core.git
+	path = HeyCommunity-backend
+	url = https://github.com/HeyCommunity/HeyCommunity-backend.git
 [submodule "HeyCommunity-wxapp"]
 	path = HeyCommunity-wxapp
 	url = https://github.com/HeyCommunity/HeyCommunity-wxapp.git
