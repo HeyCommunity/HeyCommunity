@@ -26,5 +26,5 @@ Change Log: https://github.com/HeyCommunity/HeyCommunity/blob/dev-master/CHANGEL
 方式     |   内容  
 -------------|------------------
 客服微信       | <img src="https://github.com/HeyCommunity/HeyCommunity/raw/dev-master/assets/wecom-Rod-qrcode.jpg" height="100"> 
-微信交流群     | 二维码已失效，请添加下方负责人微信，申请进群
+微信交流群     | 二维码失效，请添加上方客服微信，申请进群
 电子邮箱       | supgeek.rod@gmail.com
