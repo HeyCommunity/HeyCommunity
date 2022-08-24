@@ -14,13 +14,13 @@ Change Log: https://github.com/HeyCommunity/HeyCommunity/blob/dev-master/CHANGEL
 
 | 项目    | 入口                                                                                        | 描述                                     |
 |-------|-------------------------------------------------------------------------------------------|----------------------------------------|
-| 微信小程序 | <img src="https://www.heycommunity.com/images/HeyCommunity-wxapp-qrcode.jpg" width="100"> | 当前版本 v1.x，包含微信授权登录；微信模板消息；发布动态、点赞和评论动态 |
+| 微信小程序 | <img src="https://www.heycommunity.com/images/qrcodes/HeyCommunity-wxapp-qrcode.jpg" width="100"> | 当前版本 v1.x，包含微信授权登录；微信模板消息；发布动态、点赞和评论动态 |
 
 ## 支持与联系
 
 | 方式      | 内容                                                                                                 |
 |---------|----------------------------------------------------------------------------------------------------|
-| 电子邮箱    | supgeek.rod@gmail.com
-| 开发者微信   | <img src="https://www.heycommunity.com/images/wecom-Rod-qrcode.jpg" height="100">     |
-| 微信公众号   | <img src="https://www.heycommunity.com/images/HeyCommunity-OPA-qrcode.jpg" height="100">           |
-| 服务平台小程序 | <img src="https://www.heycommunity.com/images/HeyCommunityPlatform-wxapp-qrcode.jpg" height="100"> |
+| 电子邮箱    | supgeek.rod@gmail.com                                                                              
+| 开发者微信   | <img src="https://www.heycommunity.com/images/qrcodes/wecom-Rod-qrcode.jpg" height="100">          |
+| 微信公众号   | <img src="https://www.heycommunity.com/images/qrcodes/HeyCommunity-OPA-qrcode.jpg" height="100">           |
+| 服务平台小程序 | <img src="https://www.heycommunity.com/images/qrcodes/HeyCommunityPlatform-wxapp-qrcode.jpg" height="100"> |
